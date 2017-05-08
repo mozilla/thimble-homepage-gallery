@@ -2,6 +2,7 @@
   "title" : "Keep Calm and Carry On",
   "thumbnail_url" : "https://thimble.mozilla.org/img/thumbnail-keep-calm.png",
   "url" : "https://thimbleprojects.org/mozillalearning/220073/",
+  "projectID" : 220073,
   "description" : "Change the design of this poster to make it your own.",
   "tags" : ["css","html","color","design"],
   "teaching_kit_url" : "https://thimbleprojects.org/mozillalearning/171/",
@@ -13,6 +14,7 @@
   "title" : "Back to School Postcard",
   "thumbnail_url" : "https://thimble.mozilla.org/img/thumbnail-postcard.png",
   "url" : "https://thimbleprojects.org/mozillalearning/220079/",
+  "projectID" : 220079,
   "description" : "Add your own content to this interactive postcard.",
   "tags" : ["images","code","javascript","interactive","js"],
   "teaching_kit_url" : "https://thimbleprojects.org/mozillalearning/62/",
@@ -24,6 +26,7 @@
   "title" : "Current Events Comic",
   "thumbnail_url" : "https://thimble.mozilla.org/img/thumbnail-comic-strip.png",
   "url" : "https://thimbleprojects.org/mozillalearning/220082/",
+  "projectID" : 220082,
   "description" : "Create your very own version of this comic strip.",
   "tags" : ["fun","images","attribution","search","img"],
   "featured" : true,
@@ -35,6 +38,7 @@
   "title" : "Three Things I <3",
   "thumbnail_url" : "https://thimble.mozilla.org/img/thumbnail-three-things-i-heart.png",
   "url" : "https://thimbleprojects.org/mozillalearning/10950/",
+  "projectID" : 10950,
   "description" : "Make a simple website to share what you love.",
   "tags" : ["images","links","story","creative"],
   "teaching_kit_url" : "https://thimbleprojects.org/mozillalearning/11288/",
@@ -46,6 +50,7 @@
   "title" : "Homework Excuse Generator",
   "thumbnail_url" : "https://thimble.mozilla.org/img/thumbnail-homework-excuse-generator.png",
   "url" : "https://thimbleprojects.org/mozillalearning/11698/",
+  "projectID" : 11698,
   "description" : "Remix a basic JavaScript function to explain why your homework is late.",
   "tags" : ["code","array","javascript","js"],
   "teaching_kit_url" : "https://thimbleprojects.org/mozillalearning/11701/",
@@ -57,6 +62,7 @@
   "title" : "My Six Word Summer",
   "thumbnail_url" : "https://thimble.mozilla.org/img/thumbnail-my-six-word-summer.png",
   "url" : "https://thimbleprojects.org/mozillalearning/11703/",
+  "projectID" : 11703,
   "description" : "Tell us what you did last summer in just six words.",
   "tags" : ["html","writing","narrative"],
   "teaching_kit_url" : "https://thimbleprojects.org/mozillalearning/11704/",
@@ -67,6 +73,7 @@
 {
   "title" : "p5.js sarter project",
   "url" : "https://thimbleprojects.org/mozillalearning/213461/",
+  "projectID" : 213461,
   "thumbnail_url" : "https://thimbleprojects.org/mozillalearning/213461/thumbnail.gif",
   "description" : "Get started with this fun javascript drawing library.",
   "tags" : ["javascript","js","processing","p5","graphics", "art"],
@@ -76,6 +83,7 @@
 {
   "title" : "Dapper Fox Hat Animation",
   "url" : "https://thimbleprojects.org/mozillalearning/213517/",
+  "projectID" : 213517,
   "thumbnail_url" : "https://thimbleprojects.org/mozillalearning/213517/images/thumbnail.gif",
   "description" : "Learn CSS animations to give the Dapper Fox a nifty hat-tip.",
   "tags" : ["animation","css"],
@@ -85,6 +93,7 @@
 {
   "title" : "Remixable Facebook Post",
   "url" : "https://thimbleprojects.org/mozillalearning/213492/",
+  "projectID" : 213492,
   "thumbnail_url" : "https://thimbleprojects.org/mozillalearning/213492/thumbnail.jpg",
   "description" : "Create your own fake Facebook post and comments.",
   "tags" : ["html","css"],
@@ -94,6 +103,7 @@
 {
   "title" : "Revise a Business page",
   "url" : "https://thimbleprojects.org/mozillalearning/213466/",
+  "projectID" : 213466,
   "thumbnail_url" : "https://thimbleprojects.org/mozillalearning/213466/thumbnail.gif",
   "description" : "Create a page for your imaginary business.",
   "tags" : ["html","css","content"],
@@ -103,6 +113,7 @@
 {
   "title" : "Revise a Résumé",
   "url" : "https://thimbleprojects.org/mozillalearning/213474/",
+  "projectID" : 213474,
   "thumbnail_url" : "https://thimbleprojects.org/mozillalearning/213474/thumbnail.gif",
   "description" : "Create your own resume by chaning this HTML version.",
   "tags" : ["html","css","content"],
@@ -112,6 +123,7 @@
 {
   "title" : "#commontags Revision Project",
   "url" : "https://thimbleprojects.org/mozillalearning/213458/",
+  "projectID" : 213458,
   "thumbnail_url" : "https://thimbleprojects.org/mozillalearning/213458/thumbnail.png",
   "description" : "Use common HTML page to make the page look great.",
   "tags" : ["html","content", "markup"],
@@ -121,6 +133,7 @@
 {
   "title" : "CSS Building Blocks",
   "url" : "https://thimbleprojects.org/mozillalearning/198703/",
+  "projectID" : 198703,
   "thumbnail_url" : "https://thimbleprojects.org/mozillalearning/198703/thumbnail.gif",
   "description" : "Learn how to position HTML elements with CSS",
   "tags" : ["html","css", "style","positioning"],
@@ -130,6 +143,7 @@
 {
   "title" : "My First VR Site",
   "url" : "https://thimbleprojects.org/mozillalearning/214838/",
+  "projectID" : 214838,
   "thumbnail_url" : "https://thimbleprojects.org/mozillalearning/214838/thumbnail.png",
   "description" : "Create your first VR site using mozilla's A-frame.",
   "tags" : ["VR","3D", "Aframe"],
@@ -139,6 +153,7 @@
 {
   "title" : "Make-a-Meme",
   "url" : "https://thimbleprojects.org/mozillalearning/17083/",
+  "projectID" : 17083,
   "thumbnail_url" : "https://thimbleprojects.org/mozillalearning/17083/thumbnail.gif",
   "description" : "Make your own meme by changing the captions and image",
   "tags" : ["html","css", "style","text"],
