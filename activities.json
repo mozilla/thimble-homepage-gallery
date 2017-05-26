@@ -23,13 +23,23 @@
   "author_url" : "http://learning.mozilla.org"
 },
 {
+  "title" : "Build with HTML Bricks",
+  "thumbnail_url" : "https://thimbleprojects.org/mozillalearning/279519/img/thumbnail.gif",
+  "url" : "https://thimbleprojects.org/mozillalearning/279519/",
+  "project_id": 279519,
+  "description" : "Use HTML elements like colorful bricks to build something fun.",
+  "tags" : ["css","html","color","fun","positioning"],
+  "featured" : true,
+  "author" : "mozilla",
+  "author_url" : "http://learning.mozilla.org"
+},
+{
   "title" : "Current Events Comic",
   "thumbnail_url" : "https://thimble.mozilla.org/img/thumbnail-comic-strip.png",
   "url" : "https://thimbleprojects.org/mozillalearning/220082/",
   "project_id": 220082,
   "description" : "Create your very own version of this comic strip.",
   "tags" : ["fun","images","attribution","search","img"],
-  "featured" : true,
   "teaching_kit_url" : "https://thimbleprojects.org/mozillalearning/32/",
   "author" : "mozilla",
   "author_url" : "http://learning.mozilla.org"
