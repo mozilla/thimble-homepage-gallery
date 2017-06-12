@@ -17,6 +17,7 @@
   "project_id": 286539,
   "description" : "Build your own burger with HTML tags.",
   "tags" : ["html","css","fun"],
+  "featured" : true,
   "author" : "mozilla",
   "author_url" : "http://learning.mozilla.org"
 },
