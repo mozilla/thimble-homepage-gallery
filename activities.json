@@ -11,6 +11,16 @@
   "author_url" : "http://learning.mozilla.org"
 },
 {
+  "title" : "Make HTML Burger",
+  "thumbnail_url" : "https://thimbleprojects.org/mozillalearning/286538/build-a-burger.png",
+  "url" : "https://thimbleprojects.org/mozillalearning/286539/",
+  "project_id": 286539,
+  "description" : "Build your own burger with HTML tags.",
+  "tags" : ["html","css","fun"],
+  "author" : "mozilla",
+  "author_url" : "http://learning.mozilla.org"
+},
+{
   "title" : "Back to School Postcard",
   "thumbnail_url" : "https://thimble.mozilla.org/img/thumbnail-postcard.png",
   "url" : "https://thimbleprojects.org/mozillalearning/220079/",
@@ -18,7 +28,6 @@
   "description" : "Add your own content to this interactive postcard.",
   "tags" : ["images","code","javascript","interactive","js"],
   "teaching_kit_url" : "https://thimbleprojects.org/mozillalearning/62/",
-  "featured" : true,
   "author" : "mozilla",
   "author_url" : "http://learning.mozilla.org"
 },
