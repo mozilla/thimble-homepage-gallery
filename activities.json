@@ -11,11 +11,11 @@
   "author_url" : "http://learning.mozilla.org"
 },
 {
-  "title" : "Make HTML Burger",
+  "title" : "HTML Burger",
   "thumbnail_url" : "https://thimbleprojects.org/mozillalearning/286538/build-a-burger.png",
   "url" : "https://thimbleprojects.org/mozillalearning/286539/",
   "project_id": 286539,
-  "description" : "Build your own burger with HTML tags.",
+  "description" : "Build your own delicious burger with HTML tags and a sprinkle of CSS.",
   "tags" : ["html","css","fun"],
   "featured" : true,
   "author" : "mozilla",
