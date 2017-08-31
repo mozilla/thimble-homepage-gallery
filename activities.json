@@ -179,4 +179,13 @@
   "tags" : ["html","css", "style","text"],
   "author" : "mozilla",
   "author_url" : "http://learning.mozilla.org"
+},
+{
+"title" : "A-Frame Web VR",
+"url" : "https://thimbleprojects.org/mozillalearning/256773/",
+"thumbnail_url" : "https://thimble.mozilla.org/img/thumbnail-a-frame.png",
+"description" : "Create web VR by using A-Frame API",
+"tags" : ["VR", "html", "AFrame"],
+"author" : "mozilla",
+"author_url" : "http://learning.mozilla.org"
 }]
